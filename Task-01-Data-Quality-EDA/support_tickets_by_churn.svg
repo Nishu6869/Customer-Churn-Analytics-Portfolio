@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+<rect width="100%" height="100%" fill="#fff"/><text x="360" y="42" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Average Support Tickets by Churn</text>
+<line x1="120" y1="330" x2="630" y2="330" stroke="#333"/><line x1="120" y1="90" x2="120" y2="330" stroke="#333"/>
+<rect x="225" y="118" width="120" height="212" fill="#d95f59"/><rect x="425" y="220" width="120" height="110" fill="#4c8cba"/>
+<text x="285" y="105" text-anchor="middle" font-family="Arial" font-size="18">4.29</text><text x="485" y="207" text-anchor="middle" font-family="Arial" font-size="18">1.14</text>
+<text x="285" y="360" text-anchor="middle" font-family="Arial" font-size="18">Churned</text><text x="485" y="360" text-anchor="middle" font-family="Arial" font-size="18">Retained</text>
+<text x="360" y="400" text-anchor="middle" font-family="Arial" font-size="14" fill="#555">Mean support tickets | descriptive sample result</text></svg>
