@@ -1,0 +1,12 @@
+Column,Data_Type,Description
+CustomerID,Text,Unique customer identifier
+Gender,Category,Customer gender label in supplied sample
+Age,Integer,Customer age in years
+TenureMonths,Integer,Customer tenure in months
+SubscriptionType,Category,Subscription tier
+MonthlyCharges,Decimal,Monthly customer charge; currency not specified in source
+TotalCharges,Decimal,Total charges; currency not specified in source
+ContractType,Category,Contract duration category
+SupportTickets,Integer,Number of support tickets
+PaymentMethod,Category,Payment method
+Churn,Category,Whether customer churned (Yes/No)
